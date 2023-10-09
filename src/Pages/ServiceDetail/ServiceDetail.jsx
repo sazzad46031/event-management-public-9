@@ -8,8 +8,14 @@ const ServiceDetail = () => {
     
     const {id} = useParams()
     const idInt = parseInt(id)
-   
-    useEffect(()=>{
+    
+  
+    
+ 
+    
+    
+    
+     useEffect(()=>{
         
         const findService = serviceDetails?.find((servicedetail)=> servicedetail.id === idInt)
         console.log(findService)

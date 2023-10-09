@@ -1,7 +1,8 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, Navigate } from "react-router-dom";
 
 
 const Navbar = () => {
+    
     return (
         <div className="navbar bg-sky-600">
             <div className="navbar-start">
@@ -40,6 +41,26 @@ const Navbar = () => {
                                 Idea and inspiration
                             </NavLink>
                         </li>
+                        <li>    
+                            <NavLink
+                                to="/login"
+                                className={({ isActive, isPending }) =>
+                                    isPending ? "pending" : isActive ? "active" : "text-white"
+                                }
+                            >
+                                Login
+                            </NavLink>
+                        </li>
+                        <li>    
+                            <NavLink
+                                to="/register"
+                                className={({ isActive, isPending }) =>
+                                    isPending ? "pending" : isActive ? "active" : "text-white"
+                                }
+                            >
+                                Register
+                            </NavLink>
+                        </li>
                     </ul>
                 </div>
                 <a className="normal-case text-3xl">Wedding manager</a>
@@ -76,11 +97,31 @@ const Navbar = () => {
                                 Idea and inspiration
                         </NavLink>        
                     </li>
+                    <li>    
+                            <NavLink
+                                to="/login"
+                                className={({ isActive, isPending }) =>
+                                    isPending ? "pending" : isActive ? "active" : "text-white"
+                                }
+                            >
+                                Login
+                            </NavLink>
+                        </li>
+                        <li>    
+                            <NavLink
+                                to="/register"
+                                className={({ isActive, isPending }) =>
+                                    isPending ? "pending" : isActive ? "active" : "text-white"
+                                }
+                            >
+                                Register
+                            </NavLink>
+                        </li>
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn btn-primary mr-4">Sign in</a>
-                <a className="btn btn-secondary">Sign up</a>
+                <button className="btn btn-primary mr-4">Sign in</button>
+                <button className="btn btn-secondary">Sign up</button>
             </div>
         </div>
     );
