@@ -1,0 +1,45 @@
+[
+    {
+      "name": "Florists",
+      "id": "12345",
+      "image": "https://i.ibb.co/1qGBPBG/florists.jpg",
+      "price": 229.99,
+      "description": "Wedding florists play a vital role in creating beautiful, personalized floral arrangements that enhance the ambiance of weddings. They design bouquets, centerpieces, and decor to match couples' visions, adding elegance and romance to the special day."
+    },
+    {
+      "name": "Catering",
+      "id": "67890",
+      "image": "https://i.ibb.co/Hp9P364/catering.jpg",
+      "price": 2049.99,
+      "description": "Wedding catering services provide exquisite food and beverage experiences, tailored to couples' tastes and preferences. From gourmet meals to themed buffets, they ensure culinary delight and memorable dining moments at weddings."
+    },
+    {
+      "name": "Wedding rings and jewellery",
+      "id": "54321",
+      "image": "https://i.ibb.co/7CDrjPc/jewellery.jpg",
+      "price": 519.99,
+      "description": "Wedding jewelry adds sparkle and significance to the bride and groom's attire. Rings, necklaces, earrings, and accessories symbolize love and commitment, making them cherished keepsakes of the matrimonial celebration."
+    },
+    {
+      "name": "Decoration and hire",
+      "id": "98765",
+      "image": "https://i.ibb.co/XSHZZXp/decoration.jpg",
+      "price": 539.99,
+      "description": "Wedding decoration and hire services transform venues into dreamscapes. They offer a range of decor items, from elegant drapery to table settings, elevating aesthetics and creating a magical ambiance for couples' special day."
+    },
+    {
+      "name": "Entertainment",
+      "id": "24680",
+      "image": "https://i.ibb.co/XWYTf42/entertainment.jpg",
+      "price": 559.99,
+      "description": "Wedding entertainment captivates guests with music, dance, and interactive performances. DJs, live bands, and photo booths create an atmosphere of celebration, ensuring everyone enjoys the festivities and creates lasting memories."
+    },
+    {
+      "name": "Beauty hair and make up",
+      "id": "13579",
+      "image": "https://i.ibb.co/7vjTFDn/beauty.jpg",
+      "price": 534.99,
+      "description": "Wedding beauty services specialize in hair and makeup, enhancing the bride and bridal party's natural beauty. Skilled artists create stunning looks that radiate confidence and elegance, ensuring a picture-perfect wedding day."
+    }
+  ]
+ 

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Florists",
+      "image": "https://i.ibb.co/1qGBPBG/florists.jpg",
+      "details": "Wedding florists are essential enchantment weavers of matrimonial celebrations. These skilled artisans craft floral masterpieces that transform wedding venues into fragrant paradises, harmonizing with the couple's vision and color scheme. From bridal bouquets to exquisite centerpieces, their creations symbolize love, purity, and unity. Wedding florists consult with couples to understand their unique style and preferences, curating bespoke arrangements that infuse elegance, romance, and personality into every petal. Their expertise extends to coordinating flowers with wedding themes, seasons, and venues, ensuring every bloom is pristine. These botanical artists play a pivotal role in making weddings visually captivating, leaving indelible memories in the hearts of all who attend."
+    },
+    {
+      "id": 2,
+      "name": "Catering",
+      "image": "https://i.ibb.co/Hp9P364/catering.jpg",
+      "details": "Wedding catering is the culinary heart of a matrimonial celebration, elevating the event with flavors that linger in memory. Catering professionals work closely with couples to curate menus that reflect their tastes and preferences, whether it's gourmet cuisine, cultural specialties, or themed buffets. They craft exquisite dishes, combining artistry and taste, to create a memorable dining experience for guests. Beyond just food, they ensure impeccable service, managing everything from hors d'oeuvres to the grand wedding cake. Skilled in orchestrating seamless meal service, wedding caterers contribute to the overall ambiance and guest satisfaction, transforming receptions into sumptuous feasts that delight the senses and celebrate love."
+    },
+    {
+      "id": 3,
+      "name": "Wedding rings and jewellery",
+      "image": "https://i.ibb.co/7CDrjPc/jewellery.jpg",
+      "details": "Wedding jewelry is an embodiment of love, tradition, and style, adorning brides and grooms on their special day. These precious adornments, often featuring engagement and wedding rings, symbolize eternal commitment and devotion. Brides dazzle in intricately designed necklaces, earrings, and bracelets, enhancing their bridal attire and radiating elegance. Grooms don tasteful cufflinks, tiepins, or classic watches to complete their ensemble. The choice of wedding jewelry is deeply personal, reflecting cultural customs and individual taste. These exquisite pieces serve as heirlooms, passed down through generations, and are cherished reminders of the profound love and significance of the wedding day, capturing memories that last a lifetime."
+    },
+    {
+      "id": 4,
+      "name": "Decoration and hire",
+      "image": "https://i.ibb.co/XSHZZXp/decoration.jpg",
+      "details": "Wedding decoration and hire services are the architects of enchanting nuptial environments, turning venues into dreamscapes. These experts offer a treasure trove of decor items, from exquisite drapery to ornate table settings, illuminating the couple's vision with creativity and elegance. They take pride in understanding the bride and groom's aesthetic, ensuring that every detail, from floral arrangements to lighting, harmonizes seamlessly. Whether it's a rustic barn wedding, a glamorous ballroom affair, or a beachside celebration, these professionals transform spaces into magical settings that encapsulate the couple's love story. Their meticulous attention to detail creates a lasting impression, leaving guests spellbound and capturing the essence of the matrimonial moment."
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "image": "https://i.ibb.co/XWYTf42/entertainment.jpg",
+      "details": "Wedding entertainment is the heartbeat of joyous celebrations, captivating guests and creating lasting memories. From live bands playing melodious tunes to DJs spinning dancefloor hits, they set the musical backdrop for the festivities. Interactive elements like photo booths and magicians add an extra layer of excitement, engaging attendees of all ages. Dance floors come alive with choreographed performances or spontaneous moves, reflecting the couple's style and personality. These entertainers ensure that the atmosphere is charged with happiness, and laughter fills the air. Wedding entertainment brings families and friends together, fostering an unforgettable experience that amplifies the love and happiness shared on this momentous day."
+    },
+    {
+      "id": 6,
+      "name": "Beauty hair and make up",
+      "image": "https://i.ibb.co/7vjTFDn/beauty.jpg",
+      "details": "Wedding beauty, hair, and makeup artists are the fairy godmothers and wizards behind the bride's and bridal party's transformation into stunning visions of radiance. Their skilled hands work magic, enhancing natural beauty with expertly applied makeup, hairstyling, and meticulous attention to detail. These professionals collaborate closely with brides, understanding their preferences and desired looks, ensuring every bride feels like her most beautiful self on her special day. They craft flawless looks that withstand the camera's scrutiny and last throughout the festivities, leaving no room for doubt that the bride is the star of the show. Wedding beauty artists ensure that the bridal party shines, radiating confidence and glamour as they celebrate the union of love."
+    }
+  ]
