@@ -1,8 +1,9 @@
-# React + Vite
+website name : Wedding manager
+live link : 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+five features:
+1. We provide catering sevice in wedding
+2. We arrange different entertaining event like dance , dj in wedding
+3. we provide good jewellery
+4. We provide photography
+5. We provide different kind of decoration
